@@ -1,3 +1,3 @@
 # csharptesti
 
-This sentence will be fetched.
+This sentence HAS been fetched.
